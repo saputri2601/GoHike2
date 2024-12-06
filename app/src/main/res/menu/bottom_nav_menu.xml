@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/nav_gunung"
+        android:icon="@drawable/info_gunung"
+        android:title="Gunung"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/nav_peralatan"
+        android:icon="@drawable/peralatan"
+        android:title="Peralatan"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/nav_OpenTrip"
+        android:icon="@drawable/info_opentrip"
+        android:title="Open Trip"
+        app:showAsAction="ifRoom" />
+</menu>

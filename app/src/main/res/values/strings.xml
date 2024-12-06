@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">GoHike2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tendaTitle">Tenda</string>
+    <string name="tendaDesc">Tenda adalah perlengkapan utama untuk mendaki gunung yang berfungsi sebagai tempat berlindung dari hujan, angin, dan suhu dingin.
+Tenda dirancang ringan, mudah dibawa, dan cukup kokoh untuk digunakan di berbagai kondisi medan.
+Memilih tenda yang tahan air dan sesuai kapasitas sangat penting untuk kenyamanan dan keamanan.</string>
+    <string name="tipsTenda">
+Pilih tenda yang sesuai dengan kebutuhan, baik dari segi kapasitas maupun jenis bahan.
+Pastikan tenda memiliki ketahanan terhadap cuaca buruk seperti hujan deras dan angin kencang.
+Cek kualitas jahitan dan pastikan sambungan kain sudah dilapisi seal tahan air.
+Tenda dengan ventilasi yang baik dapat membantu mengurangi kelembapan di dalam.
+Pilih juga tenda yang ringan dan mudah dipasang untuk mempermudah proses pendirian di medan pendakian.
+</string>
+
+    <!-- Tas Carrier -->
+    <string name="tasCarrierTitle">Tas Carrier</string>
+    <string name="tasCarrierDesc">Tas carrier adalah tas besar yang dirancang untuk membawa perlengkapan mendaki seperti pakaian, makanan, dan alat tidur.
+Tas ini dilengkapi dengan tali bahu yang empuk dan sistem penyangga punggung untuk mengurangi tekanan saat membawa beban berat.
+Ukuran tas carrier biasanya bervariasi, mulai dari 40 hingga 80 liter, tergantung kebutuhan perjalanan.</string>
+    <string name="tipsTasCarrier">
+Pilih tas carrier yang kapasitasnya sesuai dengan kebutuhan perjalanan, misalnya 40–50 liter untuk perjalanan singkat dan 60–80 liter untuk perjalanan panjang.
+Periksa tali bahu, tali pinggang, dan sistem punggung, pastikan semuanya empuk dan mendukung distribusi beban.
+Pilih bahan yang tahan air atau gunakan rain cover untuk melindungi isi tas.
+Fitur tambahan seperti kantong akses cepat dan tali pengikat eksternal juga akan sangat membantu.
+</string>
+
+    <!-- First Aid Kit -->
+    <string name="firstAidKitTitle">First Aid Kit</string>
+    <string name="firstAidKitDesc">First aid kit adalah perlengkapan medis darurat yang wajib dibawa saat mendaki.
+Kit ini berisi barang seperti perban, antiseptik, plester, dan obat-obatan dasar seperti penghilang rasa sakit atau obat anti-alergi.
+Peralatan ini sangat penting untuk menangani cedera ringan atau kondisi medis selama perjalanan di alam bebas.</string>
+    <string name="tipsFirstAidKit">
+Pilih first aid kit dengan ukuran ringkas tetapi tetap lengkap.
+Pastikan kit berisi perban berbagai ukuran, plester, gunting, pinset, kapas, alkohol, antiseptik, serta obat-obatan seperti pereda nyeri dan anti-alergi.
+Kit yang dilengkapi dengan panduan penggunaan akan sangat membantu, terutama bagi pendaki pemula.
+Pastikan semua perlengkapan dalam kit terlindungi dari air dan mudah ditemukan saat dibutuhkan.
+</string>
+
+    <!-- Senter -->
+    <string name="senterTitle">Senter</string>
+    <string name="senterDesc">Senter adalah alat penerangan yang sangat penting, terutama saat mendaki di malam hari atau di tempat dengan minim cahaya.
+Pendaki sering menggunakan senter kepala (headlamp) karena praktis dan membebaskan tangan untuk aktivitas lainnya.
+Senter yang hemat energi dan memiliki baterai cadangan adalah pilihan terbaik untuk pendakian.</string>
+    <string name="tipsSenter">
+Pilih senter dengan daya tahan baterai tinggi dan cahaya yang cukup terang untuk menjelajahi area gelap.
+Senter kepala (headlamp) adalah pilihan terbaik karena membebaskan tangan Anda.
+Periksa apakah senter tahan air dan memiliki beberapa mode pencahayaan, seperti cahaya rendah untuk menghemat daya atau strobo untuk keadaan darurat.
+Jangan lupa membawa baterai cadangan dan pastikan kompatibilitasnya dengan senter.
+</string>
+
+    <!-- Nesting -->
+    <string name="nestingTitle">Nesting</string>
+    <string name="nestingDesc">Nesting adalah seperangkat alat masak portabel yang biasanya terdiri dari panci, wajan, dan alat makan.
+Nesting dirancang ringan, mudah disusun, dan hemat ruang, sehingga cocok untuk kegiatan mendaki.
+Dengan nesting, pendaki dapat memasak makanan hangat atau merebus air di lokasi pendakian.</string>
+    <string name="tipsNesting">
+Pilih nesting yang ringan dan terbuat dari bahan tahan karat seperti aluminium atau stainless steel.
+Pastikan nesting memiliki lapisan anti lengket untuk mempermudah memasak dan membersihkan.
+Pilih desain yang dapat disusun sehingga hemat ruang dalam tas carrier.
+Periksa kelengkapan nesting, seperti tutup, pegangan tahan panas, dan alat makan tambahan.
+</string>
+
+    <!-- Propane Stove -->
+    <string name="propaneStoveTitle">Propane</string>
+    <string name="propaneStoveDesc">Propane stove adalah kompor portable yang menggunakan gas propane sebagai bahan bakar.
+Alat ini digunakan untuk memasak makanan atau merebus air saat mendaki.
+Propane stove biasanya dirancang kecil, ringan, dan mudah dipasang, sehingga praktis dibawa dalam perjalanan.
+Kompor ini sangat membantu pendaki untuk tetap mendapatkan makanan hangat di tengah alam terbuka.</string>
+    <string name="tipsPropaneStove">
+Pilih propane stove yang kecil, ringan, dan mudah dirakit.
+Pastikan stabilitas kompor saat digunakan di medan yang tidak rata.
+Cek efisiensi bahan bakar dan sesuaikan dengan durasi pendakian Anda.
+Pilih kompor dengan sistem pengapian otomatis untuk mempermudah penggunaannya, terutama dalam kondisi angin kencang.
+Bawa tabung gas cadangan yang kompatibel untuk memastikan kebutuhan bahan bakar tercukupi.
+</string>
+
+    <string name="peralatan_pribadi">Peralatan Pribadi</string>
+    <string name="peralatan_kelompok">Peralatan Kelompok</string>
+    <string name="tips_memilih_peralatan">Tips Memilih Peralatan</string>
+    <string name="lokasi1">Lokasi</string>
+    <string name="lokasi_tidak_ditemukan">lokasi_tidak_ditemukan\n</string>
+    <string name="gunung">Gunung</string>
+
+    <string name="gohike_tittle">GoHike</string>
+    <string name="tagline">Bersiaplah untuk pengalaman mendaki tak terlupakan!</string>
+    <string name="mulai_cari_gunung">Mulai Cari Gunung</string>
+    <string name="register">Register</string>
+    <string name="nama">Nama</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="sudah_punya_akun_login">Sudah punya akun? Login</string>
+    <string name="login">Login</string>
+    <string name="email_atau_username">Email atau Username</string>
+    <string name="lupa_password">Lupa Password?</string>
+    <string name="belum_punya_akun_register">Belum punya akun? Register</string>
+    <string name="default_web_client_id">195336792217-vcifbdgtbgu6nns4vfiq1ihs92o71vj5.apps.googleusercontent.com</string>
+    <string name="lupa_password1">Lupa Password</string>
+    <string name="masukkan_email_anda">Masukkan Email Anda</string>
+    <string name="kembali">Kembali</string>
+    <string name="reset">Reset</string>
+    <string name="gunung_semeru">Gunung Semeru</string>
+    <string name="tersedia">Tersedia</string>
+    <string name="_3_hari_2_malam">3 Hari 2 Malam</string>
+    <string name="buat_tim">Buat Tim</string>
+    <string name="gabung_tim">Gabung Tim</string>
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="home">Home</string>
+    <string name="peralatan">Peralatan</string>
+    <string name="open_trip">Open Trip</string>
+    <string name="back_button">Back Button</string>
+    <string name="simpan">Simpan</string>
+    <string name="lokasi">%1$s</string>
+    <string name="semeru_date">Semeru Date</string>
+    <string name="slot_5_10">Slot: 5/10</string>
+    <string name="tanggal_10_12_desember_2024">Tanggal: 10 - 12 Desember 2024</string>
+    <string name="tarif_rp_200_000_orang">Rp 200.000/Orang</string>
+    <string name="jalur_pendakian_jalur_ranu_pani">Jalur Pendakian: Jalur Ranu Pani</string>
+    <string name="selamat">Selamat, bergabung di tim !!!</string>
+    <string name="oke">Oke</string>
+
+
+</resources>

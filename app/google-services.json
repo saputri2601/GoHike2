@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "195336792217",
+    "firebase_url": "https://gohike-6088c-default-rtdb.firebaseio.com",
+    "project_id": "gohike-6088c",
+    "storage_bucket": "gohike-6088c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195336792217:android:f3b05ebb05eb71a351b008",
+        "android_client_info": {
+          "package_name": "com.example.gohike2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195336792217-vcifbdgtbgu6nns4vfiq1ihs92o71vj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gohike2",
+            "certificate_hash": "82b9be8106efefb7ea4bd245f73c6eeefb3e3e0d"
+          }
+        },
+        {
+          "client_id": "195336792217-7rbtk7mcvhetupjfc0po37nbuqr4j4au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ymEJCUpx4paafK4GlR1G_JIcOc2T1yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195336792217-7rbtk7mcvhetupjfc0po37nbuqr4j4au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

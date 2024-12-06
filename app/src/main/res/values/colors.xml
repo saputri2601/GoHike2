@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brown">#8B5E3C</color>
+    <color name="brown_200">#A7855E</color> <!-- Warna coklat terang -->
+    <color name="brown_500">#775A37</color> <!-- Warna coklat utama -->
+    <color name="brown_700">#4F3C24</color> <!-- Warna coklat gelap -->
+    <color name="beige_200">#D5C5B2</color> <!-- Nuansa beige (pengganti teal terang) -->
+    <color name="beige_700">#B8A28F</color> <!-- Nuansa beige gelap (pengganti teal gelap) -->
+    <color name="lavender_brown">#C8B6A6</color> <!-- Lavender bernuansa coklat -->
+    <color name="light_gray">#F0F0F0</color>
+    <color name="green">#019946</color>
+    <color name="red">#F44336</color>
+</resources>
